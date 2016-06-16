@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+*.out
+*.dSYM
+lib/libtlpi.a
+lib/ename.c.inc
+src/fileio/tee2
+src/fileio/copy
+src/fileio/seek_io
