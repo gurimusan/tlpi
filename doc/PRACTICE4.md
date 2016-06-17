@@ -1,3 +1,6 @@
+## 4.1
+
+```
 #include <stdbool.h>
 #include <fcntl.h>
 #include <unistd.h>
@@ -53,3 +56,9 @@ main(int argc, char *argv[])
 
     exit(EXIT_SUCCESS);
 }
+```
+
+## 4.2
+
+src/fileio/copy.cではいかんのか？
+(read, writeじゃダメ？)

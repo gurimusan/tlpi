@@ -2,7 +2,7 @@ ROOT = ../..
 
 include $(ROOT)/Makefile.inc
 
-PROGS = copy seek_io tee2
+PROGS = copy seek_io
 
 all : ${PROGS}
 
